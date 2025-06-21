@@ -1,4 +1,4 @@
-# yanik-itiraf 🔥
+# 
 <!DOCTYPE html>
 <html lang="tr">
 <head>
